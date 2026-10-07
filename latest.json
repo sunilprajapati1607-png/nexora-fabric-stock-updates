@@ -1,0 +1,23 @@
+{
+  "product": "Nexora Loom & Fabric Stock",
+  "desktop": {
+    "version": "0.8.0",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-fabric-stock-updates/releases/download/v0.8.0/Nexora-Fabric-Stock-Setup-0.8.0.exe",
+    "sha256": "ee88e0e324346ddce6fae99d58e7fb3893f2684b1f6c1f729a5d080dcc21f810",
+    "sizeBytes": 82477168,
+    "notes": "Company chat on computers and phones, notes, the weight calculation's keyboard (t / +N / -N dates, Ctrl keys, F2-F10), Nexora AI answers more, updates by themselves",
+    "publishedAt": "2026-10-07T19:07:29.211Z",
+    "sig": "MEUCIGUailUYKV3ZhQp4r8j6lmnsB2teoY+ZQPvMcGjV2odPAiEA8NS/pL4fUR61uAJB2QmlH2unKlKAn/AYneYBzdAL70o="
+  },
+  "android": {
+    "versionCode": 3,
+    "versionName": "0.8.0",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-fabric-stock-updates/releases/download/v0.8.0/Nexora-Fabric-Stock-0.8.0.apk",
+    "sha256": "c863d7a3d62a1a4dbec27cb9daf096133c50af6db48496256df5ded38d27df24",
+    "sizeBytes": 11462029,
+    "notes": "Company chat on computers and phones, notes, the weight calculation's keyboard (t / +N / -N dates, Ctrl keys, F2-F10), Nexora AI answers more, updates by themselves",
+    "publishedAt": "2026-10-07T19:07:29.211Z",
+    "sig": "MEYCIQD3UAt6Gj9TPCAo/s8VNV9w6ppGqbjoknMa0psT7aD9nwIhALsj3nzK3z0nPRG6q7J24bocWkMFcyfHqtQvH8WGzWmZ"
+  },
+  "updatedAt": "2026-10-07T19:07:29.211Z"
+}
