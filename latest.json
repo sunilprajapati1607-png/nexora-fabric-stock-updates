@@ -1,23 +1,23 @@
 {
   "product": "Nexora Loom & Fabric Stock",
   "desktop": {
-    "version": "0.8.0",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-fabric-stock-updates/releases/download/v0.8.0/Nexora-Fabric-Stock-Setup-0.8.0.exe",
-    "sha256": "ee88e0e324346ddce6fae99d58e7fb3893f2684b1f6c1f729a5d080dcc21f810",
-    "sizeBytes": 82477168,
-    "notes": "Company chat on computers and phones, notes, the weight calculation's keyboard (t / +N / -N dates, Ctrl keys, F2-F10), Nexora AI answers more, updates by themselves",
-    "publishedAt": "2026-10-07T19:07:29.211Z",
-    "sig": "MEUCIGUailUYKV3ZhQp4r8j6lmnsB2teoY+ZQPvMcGjV2odPAiEA8NS/pL4fUR61uAJB2QmlH2unKlKAn/AYneYBzdAL70o="
+    "version": "0.8.1",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-fabric-stock-updates/releases/download/v0.8.1/Nexora-Fabric-Stock-Setup-0.8.1.exe",
+    "sha256": "87f472b751d16d02b5217b09711c339563dba20d8ad3c7e62e8479a57427e732",
+    "sizeBytes": 82478741,
+    "notes": "Plans and features from the one Nexora console: a part of the software that is not in the company's plan is hidden, and the service refuses it. Everybody is on Standard (everything on).",
+    "publishedAt": "2026-10-08T10:43:32.648Z",
+    "sig": "MEUCIQDDbxUpmIpMVgJ5BZMopup5kq1biHs3opR2wRBG9hI0AQIgbq10UCIV3upYFQ5rsJ0x0FVYyGEXMkNqIm28t9MQ+LA="
   },
   "android": {
-    "versionCode": 3,
-    "versionName": "0.8.0",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-fabric-stock-updates/releases/download/v0.8.0/Nexora-Fabric-Stock-0.8.0.apk",
-    "sha256": "c863d7a3d62a1a4dbec27cb9daf096133c50af6db48496256df5ded38d27df24",
-    "sizeBytes": 11462029,
-    "notes": "Company chat on computers and phones, notes, the weight calculation's keyboard (t / +N / -N dates, Ctrl keys, F2-F10), Nexora AI answers more, updates by themselves",
-    "publishedAt": "2026-10-07T19:07:29.211Z",
-    "sig": "MEYCIQD3UAt6Gj9TPCAo/s8VNV9w6ppGqbjoknMa0psT7aD9nwIhALsj3nzK3z0nPRG6q7J24bocWkMFcyfHqtQvH8WGzWmZ"
+    "versionCode": 4,
+    "versionName": "0.8.1",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-fabric-stock-updates/releases/download/v0.8.1/Nexora-Fabric-Stock-0.8.1.apk",
+    "sha256": "101249c2c61901dd10920199dcdd2d5dbd11989ffa5bd9525643d3a1a84df407",
+    "sizeBytes": 11461449,
+    "notes": "Plans and features from the one Nexora console: a part of the software that is not in the company's plan is hidden, and the service refuses it. Everybody is on Standard (everything on).",
+    "publishedAt": "2026-10-08T10:43:32.648Z",
+    "sig": "MEYCIQCAmksZ1Jw6+HZdYX2GjwqwjAR5GlC5oPIK5rKPj1tgbQIhAJRHTj7ju1lnSgs2bda76BaJmSrZyUqyOcyIbNs198Y5"
   },
-  "updatedAt": "2026-10-07T19:07:29.211Z"
+  "updatedAt": "2026-10-08T10:43:32.648Z"
 }
